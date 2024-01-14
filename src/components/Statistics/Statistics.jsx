@@ -1,4 +1,3 @@
-import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
 import { List } from './Statistics.styled';
 import Notification from '../Notification/Notification';
 
